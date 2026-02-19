@@ -28,9 +28,7 @@
 
 ### 🌸 featured projects
 
-- **[prism](https://github.com/xLisaaa/prism)** — a simple Minecraft server implementation with Minestom (Kotlin).  
-- **[prism-server](https://github.com/xLisaaa/prism-server)** *(archived)* — server side companion / experiments around Prism.  
-- **[JScoreboards](https://github.com/xLisaaa/JScoreboards)** *(fork)* — Java scoreboard utilities.  
+- **[jscoreboards](https://github.com/lisaaqt/jscoreboards)** *(revamped & continued fork)* — Java scoreboard utilities.  
 
 
 ---

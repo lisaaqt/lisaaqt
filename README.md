@@ -28,6 +28,8 @@
 
 ### 🌸 featured projects
 
+- **[nova-inventories](https://github.com/lisaaqt/nova-inventories)**
+- **[nova-configs](https://github.com/lisaaqt/nova-configurations)**
 - **[jscoreboards](https://github.com/lisaaqt/jscoreboards)** *(revamped & continued fork)* — Java scoreboard utilities.  
 
 
